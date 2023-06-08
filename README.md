@@ -1,6 +1,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=⚗️Malg-Eum%20Yu💻&fontSize=36)
----
+
+<h2>Portfolio Page</h2>
+https://yumalg12.github.io/yme_portfolio/index.html
+
+<br>
+<br>
 
 ```
 System.out.println("Hello Readers!");
@@ -19,7 +24,6 @@ System.out.println("Hello Readers!");
 ![HTML/CSS](https://img.shields.io/badge/-HTML/CSS-1572B6?style=flat&logo=css3&logoColor=ffffff)
 
 ---
-<img src="./images/sky1024px.jpg">
 
 <!--
 **yumalg12/yumalg12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
