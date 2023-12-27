@@ -1,16 +1,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=⚗️Malg-Eum%20Yu💻&fontSize=36)
 
-![JAVA](https://img.shields.io/badge/-JAVA-orange?style=flat&logo=java&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=ffffff)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=flat&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=ffffff)
+![Next.js](https://img.shields.io/badge/-Next-000000?style=flat&logo=nextdotjs&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=ffffff)
+![JAVA](https://img.shields.io/badge/-JAVA-orange?style=flat&logo=java&logoColor=ffffff)
 ![HTML/CSS](https://img.shields.io/badge/-HTML/CSS-1572B6?style=flat&logo=css3&logoColor=ffffff)
-
-```
-System.out.println("Hello Readers!");
-```
 
 <br>
 <br>
