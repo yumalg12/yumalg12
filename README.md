@@ -12,9 +12,6 @@
 System.out.println("Hello Readers!");
 ```
 
-<h2>Portfolio Page</h2>
-https://yumalg12.github.io/yme_portfolio/index.html
-
 <br>
 <br>
 
